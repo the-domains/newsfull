@@ -6,9 +6,9 @@ color:
   saturation: 0.36931187636218965
   rhythmicContrast: 0.815919485874474
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: newsfull
