@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-21T16:02:02.679Z'
+datePublished: '2016-08-21T16:04:11.070Z'
+sourcePath: _posts/2016-08-21-how-design-thinking-improves-the-creative-process.md
 isBasedOnUrl: >-
   http://www.gsb.stanford.edu/insights/how-design-thinking-improves-creative-process
 keywords:
@@ -27,7 +28,7 @@ related:
     thumbnail_width: 768
 author: []
 via: {}
-dateModified: '2016-08-21T16:01:40.276Z'
+dateModified: '2016-08-21T16:04:10.651Z'
 title: How Design Thinking Improves the Creative Process
 app_links: []
 publisher:
@@ -42,7 +43,6 @@ description: >-
   the design of a community water system.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-21-how-design-thinking-improves-the-creative-process.md
 inFeed: true
 hasPage: false
 inNav: false
