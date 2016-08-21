@@ -1,0 +1,14 @@
+layout_spectrum: 0.5362497246824205
+typography_spectrum: 0.59910574182868
+color:
+  brandStrength: 0.7506215290632099
+  lightness: 0.669455164577812
+  saturation: 0.36931187636218965
+  rhythmicContrast: 0.815919485874474
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: newsfull
