@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[newsfull]]></title>
+        <description><![CDATA[newsfull]]></description>
+        <link>https://thegrid.ai/newsfull/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Aug 2016 16:04:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/newsfull/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Design Thinking Improves the Creative Process]]></title>
+            <description><![CDATA[<article><h1>How Design Thinking Improves the Creative Process</h1><p>It's not just IDEO implementing design thinking into everyday work. More companies are turning to this problem-solving approach, which focuses on customer challenges to improve anything from the design of a water bottle to the design of a community water system.</p></article>]]></description>
+            <link>http://www.gsb.stanford.edu/insights/how-design-thinking-improves-creative-process</link>
+            <guid isPermaLink="false">a21cc688-b547-4f18-a9bd-d3d54611700a</guid>
+            <pubDate>Sun, 21 Aug 2016 16:04:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
