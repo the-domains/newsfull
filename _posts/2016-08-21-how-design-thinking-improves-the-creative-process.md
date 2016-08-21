@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T16:04:11.070Z'
+datePublished: '2016-08-21T16:09:09.706Z'
 sourcePath: _posts/2016-08-21-how-design-thinking-improves-the-creative-process.md
 isBasedOnUrl: >-
   http://www.gsb.stanford.edu/insights/how-design-thinking-improves-creative-process
@@ -28,7 +28,7 @@ related:
     thumbnail_width: 768
 author: []
 via: {}
-dateModified: '2016-08-21T16:04:10.651Z'
+dateModified: '2016-08-21T16:09:08.960Z'
 title: How Design Thinking Improves the Creative Process
 app_links: []
 publisher:
